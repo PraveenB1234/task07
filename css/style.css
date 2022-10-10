@@ -1,0 +1,119 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container{
+	       width:1170px;
+		   margin:0 auto;
+           padding:0 15px;
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+}
+.col-lg-1{
+	width:8.33%;
+	padding:0 15px;
+}
+
+.col-lg-2{
+	width:16.66%;
+	padding:0 15px;
+}
+
+.col-lg-3{
+	width:25%;
+	padding:0 15px;
+}
+
+.col-lg-4{
+	width:33.33%;
+	padding:0 15px;
+}
+
+.col-lg-5{
+	width:41.66%;
+	padding:0 15px;
+}
+
+.col-lg-6{
+	width:50%;
+	padding:0 15px;
+}
+
+.col-lg-7{
+	width:58.33%;
+	padding:0 15px;
+}
+
+.col-lg-8{
+	width:66.77%;
+	padding:0 15px;
+}
+
+.col-lg-9{
+	width:75%;
+	padding:0 15px;
+}
+
+.col-lg-10{
+	width:83.33%;
+	padding:0 15px;
+}
+
+.col-lg-11{
+	width:91.66%;
+	padding:0 15px;
+}
+
+.col-lg-12{
+	width:100%;
+	padding:0 15px;
+}
+
+.header-menu{
+	background:black;
+}
+.logo{
+	background:yellow;
+	height:50px;
+}
+.menu-bar{
+	background:yellow;
+    height:50px;
+}
+.banner-section{
+	background:#ccc;
+	height:600px;
+	padding:150px 0;
+}
+.banner-content{
+	background-color:black;
+	height:300px;
+}
+.clients-section{
+	padding-top:80px;
+	padding-bottom:80px;
+}
+.clients-logo{
+	background-color:black;
+	height:60px;
+}
+.about-section{
+	padding-top:80px;
+	padding-bottom:80px;
+	background-color:lightblue;
+}
+.about-content{
+	background-color:#ccc;
+	height:400px;
+}
+.about-list-box{
+	background-color:white;
+	height:170px;
+	margin-bottom:20px;
+}
+
+	
+	
